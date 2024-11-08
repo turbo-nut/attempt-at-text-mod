@@ -1,7 +1,6 @@
 {
-    "name": "Shitty_Text_Mod",
-    "version_number": "1.7.3",
+    "name": "Attempt_At_Text_Mod",
+    "version_number": "1.0.0",
     "website_url": "",
-    "description": "Changes all the text in the game to provide a horrible experience.",
-    "dependencies":[]
+    "description": "Committing to this bit."
 }

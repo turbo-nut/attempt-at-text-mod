@@ -39,7 +39,7 @@
     "ITEM_FEATHER_PICKUP": "Jump like Randy jumps from the USB",
 
     "ITEM_CHAINLIGHTNING_NAME": "tiktok apology",
-    "ITEM_CHAINLIGHTNING_NAME": "you're not beating the furry allegations",
+    "ITEM_CHAINLIGHTNING_PICKUP": "you're not beating the furry allegations",
 
     "ITEM_SEED_NAME": "reaction youtubers",
     "ITEM_SEED_PICKUP": "leech the life from your audience to keep relevancy",
@@ -54,7 +54,7 @@
     "ITEM_MUSHROOMS_PICKUP": "busting all over the place (while not moving)",
 
     "ITEM_CROWBAR_NAME": "STAHP",
-    "ITEM_CROWBAR_NAME": "AUGH",
+    "ITEM_CROWBAR_PICKUP": "AUGH",
 
     "ITEM_ATTACKSPEEDONCRIT_NAME": "dr. disrespect",
     "ITEM_ATTACKSPEEDONCRIT_PICKUP": "the 2 time caught cheating on his wife champion",
@@ -66,14 +66,14 @@
     "ITEM_SPRINTOUTOFCOMBAT_PICKUP": "the safeword is combat",
 
     "ITEM_FALLBOOTS_NAME": "i love feet",
-    "ITEM_FALLBOOTS_NAME": "whoever has this loves feet mmmhh feet",
+    "ITEM_FALLBOOTS_PICKUP": "whoever has this loves feet mmmhh feet",
 
 
     "ITEM_WARDONLEVEL_NAME": "mark warber",
     "ITEM_WARDONLEVEL_PICKUP": "be sure to drop it in the most useless spot ever",
     
     "ITEM_WARCRYONKILL_NAME": "lemme see your war face",
-    "ITEM_WARCRYONKILL_NAME": "get psyched on killing people, what is wrong with you",
+    "ITEM_WARCRYONKILL_PICKUP": "get psyched on killing people, what is wrong with you",
 
     "ITEM_PHASING_NAME": "a get out of jail free card (it's not lmao)",
     "ITEM_PHASING_PICKUP": "you're still dead anyways don't act like this'll help",
@@ -97,10 +97,10 @@
     "ITEM_MEDKIT_PICKUP": "only comes into effect when not actually required",
 
     "ITEM_EQUIPMENTMAGAZINE_NAME": "worse gestures",
-    "ITEM_EQUIPMENTMAGAZINE_NAME": "just use gestures wtf are you doing man",
+    "ITEM_EQUIPMENTMAGAZINE_PICKUP": "just use gestures wtf are you doing man",
 
     "ITEM_INFUSION_NAME": "a free green scrap",
-    "ITEM_INFUSION_NAME": "gives a free green scrap when used at the scrapper",
+    "ITEM_INFUSION_PICKUP": "gives a free green scrap when used at the scrapper",
 
     "ITEM_SHOCKNEARBY_NAME": " a pack of live electronics",
     "ITEM_SHOCKNEARBY_PICKUP": "...this has to break some sort of OSHA violations.",
@@ -124,13 +124,13 @@
     "ITEM_LUNARDAGGER_PICKUP": "time to break the game i guess",
 
     "ITEM_GOLDONHIT_NAME": "a thing you're not using",
-    "ITEM_GOLDONHIT_NAME": "ohp you accidentally picked this up unfortunate",
+    "ITEM_GOLDONHIT_PICKUP": "ohp you accidentally picked this up unfortunate",
 
     "ITEM_SHIELDONLY_NAME": "shields up spartans",
-    "ITEM_SHIELDONLY_NAME": "OSP be damned, i just want the number to go up",
+    "ITEM_SHIELDONLY_PICKUP": "OSP be damned, i just want the number to go up",
 
     "ITEM_ALIENHEAD_NAME": "free head",
-    "ITEM_ALIENHEAD_NAME": "guys, which chipmunk is getting the best head",
+    "ITEM_ALIENHEAD_PICKUP": "guys, which chipmunk is getting the best head",
 
     "ITEM_TALISMAN_NAME": "sucking the soul out of em",
     "ITEM_TALISMAN_PICKUP": "rejuvinate cooldowns from suckin em good",
@@ -142,7 +142,7 @@
     "ITEM_BEETLEGLAND_PICKUP": "summon simon",
 
     "ITEM_SPRINTBONUS_NAME": "finally, some good fucking movement",
-    "ITEM_SPRINTBONUS_NAME": "maybe now i won't get fucking one-shot...",
+    "ITEM_SPRINTBONUS_PICKUP": "maybe now i won't get fucking one-shot...",
 
     "ITEM_SECONDARYSKILLMAGAZINE_NAME": "the american dream",
     "ITEM_SECONDARYSKILLMAGAZINE_PICKUP": "feel the power of the 2'nd amendment",
@@ -170,19 +170,19 @@
     "ITEM_SLOWONHIT_PICKUP": "now take it easy there buddy",
 
     "ITEM_EXTRALIFE_NAME": "nuh uh",
-    "ITEM_EXTRALIFE_NAME": "didn't count",
+    "ITEM_EXTRALIFE_PICKUP": "didn't count",
     
     "ITEM_EXTRALIFECONSUMED_NAME": "uh oh",
     "ITEM_EXTRALIFECONSUMED_PICKUP": "lock in i guess",
 
     "ITEM_UTILITYSKILLMAGAZINE_NAME": "this light hard asf rn",
-    "ITEM_UTILITYSKILLMAGAZINE_NAME": "ong fr fr ong man like fr like-",
+    "ITEM_UTILITYSKILLMAGAZINE_PICKUP": "ong fr fr ong man like fr like-",
 
     "ITEM_HEADHUNTER_NAME": "copycat from gunfire reborn",
     "ITEM_HEADHUNTER_PICKUP": "copy an elite's entire flow",
 
     "ITEM_KILLELITEFRENZY_NAME": "lobotomy",
-    "ITEM_KILLELITEFRENZY_NAME": "i wanna make a lobcorb joke but instead i'll just put this text in and make it seem like i wrote something of substance instead",
+    "ITEM_KILLELITEFRENZY_PICKUP": "i wanna make a lobcorb joke but instead i'll just put this text in and make it seem like i wrote something of substance instead",
 
     "ITEM_INCREASEHEALING_NAME": "massive racks omg",
     "ITEM_INCREASEHEALING_PICKUP": "we got big racks, nature is healing",
@@ -194,7 +194,7 @@
     "ITEM_AUTOCASTEQUIPMENT_PICKUP": "you're just using this for a tonic build",
 
     "ITEM_EXECUTELOWHEALTHELITE_NAME": "they can't eat bread?",
-    "ITEM_EXECUTELOWHEALTHELITE_NAME": "let them eat cake.",
+    "ITEM_EXECUTELOWHEALTHELITE_PICKUP": "let them eat cake.",
 
     "ITEM_ENERGIZEONEQUIPMENTUSE_NAME": "horny",
     "ITEM_ENERGIZEONEQUIPMENTUSE_PICKUP": "get horny for 8 seconds",
@@ -218,7 +218,7 @@
     "ITEM_ARMORREDUCTIONONHIT_PICKUP": "The lemurians thought they could unionize. Mithrix showed them the folly of their actions. Give them another reminder.",
 
     "ITEM_TPHEALINGNOVA_NAME": "a free green scrap",
-    "ITEM_TPHEALINGNOVA_NAME": "gives a free green sc- yeah you get it.",
+    "ITEM_TPHEALINGNOVA_PICKUP": "gives a free green sc- yeah you get it.",
 
     "ITEM_NEARBYDAMAGEBONUS_NAME": "so baby pull me closer",
     "ITEM_NEARBYDAMAGEBONUS_PICKUP": "in the backseat of your rover",
@@ -241,10 +241,10 @@
     "ITEM_PEARL_PICKUP": "gets powercrept by the 5-star waifu",
 
     "ITEM_SHINYPEARL_NAME": "5-star waifu",
-    "ITEM_SHINYPEARL_NAME": "the subject of powercreep for the next couple months.",
+    "ITEM_SHINYPEARL_PICKUP": "the subject of powercreep for the next couple months.",
 
     "ITEM_BONUSGOLDPACKONKILL_NAME": "Hello. I like money.",
-    "ITEM_BONUSGOLDPACKONKILL_NAME": "money",
+    "ITEM_BONUSGOLDPACKONKILL_PICKUP": "money",
     
     "ITEM_LASERTURBINE_NAME" :"what does this even do",
     "ITEM_LASERTURBINE_PICKUP": "no like seriously who uses this",
@@ -253,7 +253,7 @@
     "ITEM_NOVAONLOWHEALTH_PICKUP": "uh oh i'm low health better kill the whole fucking map lol",
 
     "ITEM_LUNARTRINKET_NAME": "anal beads",
-    "ITEM_LUNARTRINKET_NAME": "does nothing",
+    "ITEM_LUNARTRINKET_PICKUP": "does nothing",
 
     "ITEM_REPULSIONARMORPLATE_NAME": "repulsed by you lol",
     "ITEM_REPULSIONARMORPLATE_PICKUP": "what does this do again",
@@ -268,7 +268,7 @@
     "ITEM_INTERSTELLARDESKPLANT_PICKUP": "healing ikea meatballs yay :D",
 
     "ITEM_FOCUSEDCONVERGENCE_NAME": "teleporter optimisation tool",
-    "ITEM_FOCUSEDCONVERGENCE_NAME": "makes the tp actually fucking fast",
+    "ITEM_FOCUSEDCONVERGENCE_PICKUP": "makes the tp actually fucking fast",
 
     "ITEM_FIREBALLSONHIT_NAME": "fire penetrator 9000",
     "ITEM_FIREBALLSONIT_PICKUP": "i cast fireball in this 1 foot room",
@@ -397,7 +397,7 @@
     "ITEM_RANDOMEQUIPMENTTRIGGER_PICKUP": "funny things happen with a bottle of baileys",
 
     "ITEM_FREECHEST_NAME": "amazon prime",
-    "ITEM_FREECHEST_NAME": "same day shipping (real)",
+    "ITEM_FREECHEST_PICKUP": "same day shipping (real)",
 
     "ITEM_ELEMENTALRINGVOID_NAME": "straight man band",
     "ITEM_ELEMENTALRINGVOID_PICKUP": "it's the gay band but straight... up worse.",
@@ -427,7 +427,7 @@
     "EQUIPMENT_CRITONUSE_PICKUP": "meta stocks on the rise",
 
     "EQUIPMENT_DRONEBACKUP_NAME": "trump when he sees small yemenese child",
-    "EQUIPMENT_DRONEBACKUP_NAME": "harness the essence of america",
+    "EQUIPMENT_DRONEBACKUP_PICKUP": "harness the essence of america",
 
     "EQUIPMENT_BFG_NAME": "the bbc",
     "EQUIPMENT_BFG_PICKUP": "penetrate your enemies with the bbc",
@@ -463,7 +463,7 @@
     "EQUIPMENT_CLEANSE_PICKUP": "you'll understand when you play rise",
 
     "EQUIPMENT_FIREBALLDASH_NAME": "egg (fire)",
-    "EQUIPMENT_FIREBALLDASH_NAME": "become egg (fire)",
+    "EQUIPMENT_FIREBALLDASH_PICKUP": "become egg (fire)",
 
     "EQUIPMENT_GAINARMOR_NAME" :"green animal of large armor",
     "EQUIPMENT_GAINARMOR_PICKUP": "become large armor man",
@@ -481,7 +481,7 @@
     "EQUIPMENT_TEAMWARCRY_PICKUP": "i'm gonna gorag",
 
     "EQUIPMENT_DEATHPROJECTILE_NAME": "oops",
-    "EQUIPMENT_DEATHPROJECTILE_NAME": "mb",
+    "EQUIPMENT_DEATHPROJECTILE_PICKUP": "mb",
 
     "EQUIPMENT_MOLOTOV_NAME": "i'm throwing a molotov",
     "EQUIPMENT_MOLOTOV_PICKUP": "like...6 of them",
