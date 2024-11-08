@@ -1,0 +1,215 @@
+{
+	"strings":
+	{
+	"EQUIPMENT_COMMANDMISSILE_NAME": "TACTICAL MISSILE STRIKE",
+	"EQUIPMENT_COMMANDMISSILE_PICKUP": "BOOM KABOOM PSSHHH PCHHHH",
+	"EQUIPMENT_COMMANDMISSILE_DESC": "ALRIGHT, THATS A LOTTA <style=cIsDamage>DAMAGE</style>",
+	"EQUIPMENT_COMMANDMISSILE_LORE": "\u201CConsumers were shocked when a beloved game company released its latest cardboard assembly kit: a missile launcher.\u201D\r\n\r\n- The Saturn Reporter\r\n",
+
+	"EQUIPMENT_FRUIT_NAME": "Fortnite Berry",
+	"EQUIPMENT_FRUIT_PICKUP": "Instantly eat ass.",
+	"EQUIPMENT_FRUIT_DESC": "Eat ass for <style=cIsHealing>50% of your dignity.</style>",
+	"EQUIPMENT_FRUIT_LORE": "\u201CThe Nutapple is an exotic fruit picked from the curious Xelphum Tree, native to coastal Gemines on Titan. Renowned for its sweet, yet cleansing flavor (and low caloric total), the Nutapple is a must-have for health enthusiasts everywhere.\u201D\r\n\r\n- Dietary Sciences Digest\r\n",
+
+	"EQUIPMENT_METEOR_NAME": "Armageddon",
+	"EQUIPMENT_METEOR_PICKUP": "Meteors rain from the sky, <color=#FF7F7F>and basically you'll kill the boss, yourself, and your friends.</color>",
+	"EQUIPMENT_METEOR_DESC": "YOU WANT TO KILL EVERYONE? <style=cIsDamage>600% DAMAGE PER BLAST</style>! AAAAAAAAA",
+	"EQUIPMENT_METEOR_LORE" : "What a... peculiar piece of the stars that serendipity has brought us. I'm sure you can make more. The ratios are simple. It should be quite fun.",
+
+	"EQUIPMENT_SOULJAR_NAME": "Jar of Souls",
+	"EQUIPMENT_SOULJAR_PICKUP": "Summon a ghost for every enemy on the screen.",
+	"EQUIPMENT_SOULJAR_DESC": "Duplicate every enemy as a ghost to fight on your side for 15 seconds.",
+
+	"EQUIPMENT_BLACKHOLE_NAME": "blekhole lancher",
+	"EQUIPMENT_BLACKHOLE_PICKUP": "S   U   C   C",
+	"EQUIPMENT_BLACKHOLE_DESC": "Fire a super compressed picture of Huntresses ass that <style=cIsUtility>draws thirsty men and woman in</style>. Triggers randos who don't like the word 'thicc'",
+	"EQUIPMENT_BLACKHOLE_LORE": "\u201CProfessors Mia Thatcher and Jared Malik report that the galaxy\u2019s first singularity containment lattice \u2013 or SCL, for short \u2013 has finished tests and is confirmed to be perfectly safe. \r\n\r\nWhile this is a historic scientific breakthrough, multiple scientists have spoken out about the implications of such a discovery - and what it could mean for the future of the humanity.\u201D\r\n\r\n- The Saturn Reporter, Front Page Headline\r\n",
+
+	"EQUIPMENT_GHOSTGUN_NAME": "Reaper's Remorse",
+	"EQUIPMENT_GHOSTGUN_PICKUP": "Summon a ghostly revolver that doubles damage on kill.",
+	"EQUIPMENT_GHOSTGUN_DESC": "Ghost Gun description.",
+
+	"EQUIPMENT_CRITONUSE_NAME": "Kritzkreig",
+	"EQUIPMENT_CRITONUSE_PICKUP": "Basically just damage",
+	"EQUIPMENT_CRITONUSE_DESC": "Gain <style=cIsDamage>some fucking damage</style> for 8 secs.",
+	"EQUIPMENT_CRITONUSE_LORE": "Order: Ocular HUD\r\nTracking Number: 871*****\r\nEstimated Delivery: 09\/06\/2056\r\nShipping Method: Standard\r\nShipping Address: Greivenkamp, 5th Houston St, Prism Tower, Earth\r\nShipping Details:\r\n\r\nI wish you hadn't asked me for help. I was contacted by [REDACTED] and they explained... well, some things. Using their instructions, I was able to design this interface for prolonged exactness. The beauty of it all is that it will compound with any previous precision enhancing tools. Digital plus optical is the way to go.\r\n\r\nWhile I still don't know everything, I feel like I'm already in too deep. You won't hear from me anymore after this.\r\n",
+
+	"EQUIPMENT_DRONEBACKUP_NAME": "AHAHAHAHAHA",
+	"EQUIPMENT_DRONEBACKUP_PICKUP": "OUR DRONES SHALL BLOT THE SKY.",
+	"EQUIPMENT_DRONEBACKUP_DESC": "CALL <style=cIsDamage>IN FOUR BIG BOYS</style> TO BLOT THE SKY",
+	"EQUIPMENT_DRONEBACKUP_LORE": "\"The inclusion of Rapid Response Drone Squadrons (RRDS) by local law enforcement marked a dire turning point of Plank's Rebellion. After its massive \"success\" in quelling the Rebellion - and subsequent implementation across Mercury - underground drone hackers became highly sought after by black market users.\"\r\n\r\n-Overview of Drone Technology, Vol.2\r\n",
+
+	"EQUIPMENT_BFG_NAME": "BFG",
+	"EQUIPMENT_BFG_PICKUP": "It's a big fucking gun.",
+	"EQUIPMENT_BFG_DESC": "<style=cIsDamage>Listen to the screams of agony</style>",
+	"EQUIPMENT_BFG_LORE" : "Order: Particle Accelerator Component\r\nTracking Number: 993******\r\nEstimated Delivery: 06\/06\/2056\r\nShipping Method: Volatile\r\nShipping Address: Advance Particle Research Center, Mesquite, Earth\r\n\r\nI still don't get how you keep losing so many accumulators. I build 'em tough, and they're supposed to last. I ran the numbers on the comm speeds, and I'm pretty sure you sent for this order less than two days after you should've got the last one. \r\n\r\nIf this keeps up, you're gonna punch a hole in something where it doesn't belong. You've got a real good sponsor, Jim, but this stuff ain't cheap to ship. And it sure as heck ain't fast. So, I'm sending you a custom part. One that's as tough as I can make, and with a safety to keep you from overcharging it - that I'm sure you'll bypass anyway. \r\n\r\nAt least try not to blow this one to bits for the first week, alright? Make our hometown look good. You're not gonna show up those fancy Europeans with a smoking scrap heap.\r\n",
+
+	"EQUIPMENT_JETPACK_NAME": "Belief",
+    "EQUIPMENT_JETPACK_PICKUP": "Your belief is so strong u can FLY",
+    "EQUIPMENT_JETPACK_DESC": "Believe in yourself and <style=cIsUtility>fly for 15 seconds, 15 seconds of pire bliss borther.</style> sidenote: <style=cIsUtility>(ur alos fast)",
+	"EQUIPMENT_JETPACK_LORE": "Order: Milky Chrysalis\r\nTracking Number: 393*****\r\nEstimated Delivery: 11/27/2056\r\nShipping Method: High Priority/Biological\r\nShipping Address: Diptera Research Center, Io\r\nShipping Details:\r\n\r\nDeep within the plague wastes there is an alcove free from disease. It is home to a group of insects that have NOT acclimated to their environment. They survive not through resistance\u2026 but through transformation. \r\n\r\nI\u2019ve witnessed the creatures undergoing infinite states of metamorphosis. Each change that happens to them is reflected in the surrounding land. This constantly molds the area into something less toxic.\r\n\r\nI can\u2019t imagine that they don\u2019t have an upper limit - a final form. What adjustments would that final form bring? Are there any restrictions to what can be modified? I\u2019m sending this sample to you to study. Please be careful with it, as it\u2019s frozen in a cryo cell mid-transformation.\r\n",
+
+	"EQUIPMENT_LIGHTNING_NAME": "STEP 1",
+    "EQUIPMENT_LIGHTNING_PICKUP": "BADDIES, PREPARE UR ANUS",
+    "EQUIPMENT_LIGHTNING_DESC": "<style=cIsDamage>YES YES YES YES YES YES YES YES</style> LIGHTNING IS THE BEST!<style=cIsDamage> LIGHTNING IS THE BEST!</style>",
+	"EQUIPMENT_LIGHTNING_LORE": "Order: ZAP2-K \u201CRoyal\u201D Capacitor\r\nTracking Number: 145***************\r\nEstimated Delivery: 04\/30\/2056\r\nShipping Method:  Standard\r\nShipping Address: Power Plant 005, Route 10, Venus\r\nShipping Details: \r\n\r\nHere\u2019s a replacement for your damaged equipment. Crazy how gang activity is starting up again \u2013 even crazier that they\u2019d steal a capacitor from you guys. Anyway, you guys know the drill \u2013 make sure routinely discharge the capacitor\u2019s storage cells, as it may hold on to latent voltage. Oh, and make sure not to point it at anybody when you do.\r\n\r\n- The Saturn Reporter, Front Page Headline\r\n",
+
+	"EQUIPMENT_GOLDGAT_NAME": "Completely shite unless you proccin",
+    "EQUIPMENT_GOLDGAT_PICKUP": "absolutely garbage",
+    "EQUIPMENT_GOLDGAT_DESC": "if you dont have anything<style=cIsDamage>its shit</style>. Costs a dolla a bullet, less you have sticky bombs kiss this thing goodbye because its shit",
+	"EQUIPMENT_GOLDGAT_LORE": "Order: The Crowdfunder\r\nTracking Number: 783*****\r\nEstimated Delivery: 05/09/2056\r\nShipping Method: Standard\r\nShipping Address: 206 29th Ave, High Chariot, Mercury \r\nShipping Details:\r\n\r\nThe wealthy overlords on Primas V went to great measures to break the will of the lower class. They kept the threat of injury and death constant, which helped to keep their servants in check, but this was only half of their method. \r\n\r\nTo further highlight the vast differences in status, their extravagant weapons were fueled by currency - they were literally throwing money at them.\r\n\r\nI don\u2019t have to tell you how that turned out for them. It\u2019s why my client is in hiding now and has to pawn these things off. He thanks you for your patronage in these trying times.\r\n",
+	
+	"EQUIPMENT_PASSIVEHEALING_NAME": "gnarly my dood",
+	"EQUIPMENT_PASSIVEHEALING_PICKUP":"Pass the ball my dood, itll patch your friend right up",
+	"EQUIPMENT_PASSIVEHEALING_DESC":"Yeet hit me with that healing guy that heals <style=cIsHealing>1.5% of your maximum health/second</style>. yote it to an ally to heal <style=cIsHealing>10% of their maximum health.</style>",
+	"EQUIPMENT_PASSIVEHEALING_LORE":"Order: Gnarled Woodsprite\r\nTracking Number: 447*****\r\nEstimated Delivery: 01/16/2056\r\nShipping Method: High Priority/Biological\r\nShipping Address: Happy Hope Children's Hospital, Waleton, Earth\r\nShipping Details:\r\n\r\nDr. Coleas's studies on the benefits of sprite-assisted care have paved the way for hospitals across Earth. These little guys take every opportunity to radiate amongst the injured and sick. \r\n\r\nWe've seen significant decreases in the recovery times of almost all patients. While effective, I'm not certain if this aura effect is transmitting anything at all. It might all be placebo; people could just be reacting to the spectacle of a cute lifeform putting on a light show in front of them.\r\n\r\nEither way, it's good to have them around, and I think they enjoy being around us too. I'm lucky enough to get to keep one in my home... for study purposes, of course. It may seem a little crass, but shipping these little guys in from off world does not seem to impact their attitude in the slightest.\r\n",
+	
+	"EQUIPMENT_AFFIXRED_NAME": "FIRE",
+    "EQUIPMENT_AFFIXRED_PICKUP": "I AM DEAMON",
+    "EQUIPMENT_AFFIXRED_DESC": "rawr ecksdee",
+
+	"EQUIPMENT_AFFIXBLUE_NAME": "If you like it so much, become it. Become one with the lightning",
+    "EQUIPMENT_AFFIXBLUE_PICKUP": "I AM LIGHTNING",
+    "EQUIPMENT_AFFIXBLUE_DESC": "YES YES YES YES YES YES YES YES YES YES",
+
+	"EQUIPMENT_AFFIXGOLD_NAME": "How'd you get this?",
+    "EQUIPMENT_AFFIXGOLD_PICKUP": "Become an aspect of fortune you bitch.",
+    "EQUIPMENT_AFFIXGOLD_DESC": "I guess yuo rich?!??!?!?!?!",
+
+	"EQUIPMENT_AFFIXWHITE_NAME": "Freezy boyz",
+    "EQUIPMENT_AFFIXWHITE_PICKUP": "GOD I NEED A SWEATER HELP ME.",
+    "EQUIPMENT_AFFIXWHITE_DESC": "You're now the guy at the end of the Shining.",
+
+	"EQUIPMENT_AFFIXPOISON_NAME": "toxik",
+    "EQUIPMENT_AFFIXPOISON_PICKUP": "now u throw ball",
+    "EQUIPMENT_AFFIXPOISON_DESC": "so u like being toxic, I see... u fok",
+
+	"EQUIPMENT_AFFIXHAUNTED_NAME": "ghost boi",
+    "EQUIPMENT_AFFIXHAUNTED_PICKUP": "mak buds invisible or somthin",
+    "EQUIPMENT_AFFIXHAUNTED_DESC": "BOO haha lol",
+
+	"EQUIPMENT_AFFIXLUNAR_NAME": "I said the original elite",
+    "EQUIPMENT_AFFIXLUNAR_PICKUP": "perfection.",
+    "EQUIPMENT_AFFIXLUNAR_DESC": "",
+
+	"EQUIPMENT_AFFIXEARTH_NAME": "mud bol",
+    "EQUIPMENT_AFFIXEARTH_PICKUP": "throw mud at frenz",
+    "EQUIPMENT_AFFIXEARTH_DESC": "",
+
+	"EQUIPMENT_AFFIXSECRETSPEED_NAME": "ZOOOOOOOOOOM",
+    "EQUIPMENT_AFFIXSECRETSPEED_PICKUP": "YOOOOOOOOOOOO SPEEEEEEEEEEEEEEEEEEED",
+    "EQUIPMENT_AFFIXSECRETSPEED_DESC": "",
+
+	"EQUIPMENT_BURNNEARBY_NAME" : "Bad slurp juice",
+	"EQUIPMENT_BURNNEARBY_PICKUP" : "BURN IT ALL TO ASHES IN HOLY FLAME... <color=#FF7F7F>YOU BURN, I BURN, WE ALL BURN.</color>\n",
+	"EQUIPMENT_BURNNEARBY_DESC" : "I AM THE FURY, BURN IN MY FLAMES. <style=cIsDamage>RAAAAAGGGGGHHHHH IT BURNS!</style> (useless if you're not merc or loader btw)",
+	"EQUIPMENT_BURNNEARBY_LORE" : "<style=cMono>\n========================================\n====   MyBabel Machine Translator   ====\n====     [Version 12.45.1.009 ]   ======\n========================================\nTraining… <100000000 cycles>\nTraining… <1453461 cycles>\nComplete!\nDisplay result? Y/N\nY\n================================</style>\n[Grix] ignites. We measure the time. \n.....\n.....\n.....\n...\n..\n.\n\nToo ordered. Composition is settling - I scrape the mixture from the bottom.  \n[Ouju] ignites. We measure the time.\n....\n...\n...\n..\n.\n\nToo smooth. Ratio can be greater. I flatten the mixture. Black ichor of [Ouju] begins to pool around my feet. \n[Rhisko] ignites. I measure the time.\n...\n.\n\nI increase the ratio of Tetrafoil. I saturate the mixture. Ichor floods the chamber. Ash flutters in the air before settling on the floor.\n...\nI ignite. <He> measures my time.\n...\n...\n...\n..\n..\n..\n.\n\n<Perfect.>\n<style=cMono>\n================================\n",
+
+	"EQUIPMENT_SOULCORRUPTOR_NAME": "EQUIPMENT_SOULCORRUPTOR_NAME",
+	"EQUIPMENT_SOULCORRUPTOR_PICKUP": "EQUIPMENT_SOULCORRUPTOR_PICKUP",
+	"EQUIPMENT_SOULCORRUPTOR_DESC": "EQUIPMENT_SOULCORRUPTOR_DESC",
+
+	"EQUIPMENT_SCANNER_NAME": "?????",
+	"EQUIPMENT_SCANNER_PICKUP": "suddenly, question marks",
+	"EQUIPMENT_SCANNER_DESC": "Mak some <style=cIsUtility>missing pings</style> appear so that you can't <style=cIsUtility>see shit</style>.",
+	"EQUIPMENT_SCANNER_LORE": "Order: Radar Communications Array\r\nTracking Number: 02****************\r\nEstimated Delivery: 01\/14\/2056\r\nShipping Method:  Standard\r\nShipping Address: PO Box 25-B, Fort G.B., Mercury\r\nShipping Details: \r\n\r\nYou\u2019re asking for trouble, ordering this through the UES. Not very covert. This thing can put out anything from infrared to UV waves \u2013 maybe it\u2019ll let you see the Enforcers coming to haul you off to jail as they kick down your door! Hah!\r\n",
+
+	"EQUIPMENT_CRIPPLEWARD_NAME" : "Why does this even exist",
+	"EQUIPMENT_CRIPPLEWARD_PICKUP" : "basically your leg broke lmao",
+	"EQUIPMENT_CRIPPLEWARD_DESC" :  "fuck everyone, <style=cIsUtility>y'all slow and stupid</style> and yo <style=cIsDamage>armor reduced by 20.</style>",
+	"EQUIPMENT_CRIPPLEWARD_LORE": "\u201CThis relic tells a story... But it is not a fairy tale. It\u2019s a tragedy. A story of betrayal, regret, and sorrow. A story of two.\u201D\r\n\r\n\u201CUh\u2026 okay\u2026? How the hell do you know that?\u201D\r\n",
+
+	"EQUIPMENT_GATEWAY_NAME" : "weird looking pot",
+	"EQUIPMENT_GATEWAY_PICKUP" : "use pot and go ZOOOOM across the entire map",
+	"EQUIPMENT_GATEWAY_DESC" : "<style=cIsUtility>Warpspeed</style>.",
+	"EQUIPMENT_GATEWAY_LORE": "\u201COne of Robins\u2019 most loved acts was the pitcher skit. \r\n\r\nThe skit would start off with Robins, playing the part of a flower keeper, getting ready to fill a vase with soil. He would pour, pour, and pour, but the vase wouldn\u2019t seem to get any fuller \u2013 as if the soil was disappearing infinitely. \r\n\r\nRobins would inspect the vase, looking at it up and down, but there weren\u2019t any holes in the thing. Finally, at the climax, Robins would hold it upside down over his head \u2013 upon which all of the soil poured in would land directly on his face.\u201D\r\n\r\n- Biography of Charles Robins\r\n",
+
+	"EQUIPMENT_TONIC_NAME" : "liquid weed",
+	"EQUIPMENT_TONIC_PICKUP" : "get high on drugs <color=#FF7F7F>Chance to become a drug addict.</color>",
+	"EQUIPMENT_TONIC_DESC" : "basically get high but if not enough snails u die.",
+	"EQUIPMENT_TONIC_LORE": "\u201CReality is whatever the mind decides it to be. Take a sip of the drink, and the mind becomes malleable. From there, you can shape it into whatever form you please... and the world around you follows your example.\u201D\r\n\r\n- Sigibold the Drunken\r\n",
+
+	"EQUIPMENT_QUESTVOLATILEBATTERY_NAME" : "djihad%",
+	"EQUIPMENT_QUESTVOLATILEBATTERY_PICKUP" : "Looks like it's time for a <color=#FF7F7F>SPEEDRUN</color>.",
+
+	"EQUIPMENT_CLEANSE_NAME" : "junk",
+	"EQUIPMENT_CLEANSE_PICKUP" : "fuck this thing",
+	"EQUIPMENT_CLEANSE_DESC" : "<style=cIsUtility>i hate it,</style> you hate it, <style=cIsUtility>we all hate it</style>.",
+	"EQUIPMENT_CLEANSE_LORE" : "Order: Blast Shower\r\nTracking Number: 152*****\r\nEstimated Delivery: 06/19/2056\r\nShipping Method: Standard\r\nShipping Address: Frontier Gate, Outer Edge Zone\r\nShipping Details:\r\n\r\nOuter Edge thanks you for your rewards redemption! It takes a real explorer to make their living on the frontier. As you undoubtedly know, REAL exploring is REAL messy. This portable unit will equip you with the modern convenience of taking a shower anywhere at any time!\r\n\r\nDisclaimer: Wear your protective suit while cleansing. Do not use product directly on skin. Blast Shower is only rated for B-class toxins and C-class foreign organisms. This company does not accept any responsibility for incidents as a result of an incomplete cleansing.\r\n",
+
+	"EQUIPMENT_FIREBALLDASH_NAME" : "AAAAAAA egg",
+	"EQUIPMENT_FIREBALLDASH_PICKUP" : "become the fierbol",
+	"EQUIPMENT_FIREBALLDASH_DESC" : "become a <style=cIsDamage>firebol</style> and then go <style=cIsDamage>BOOM</style> in the middle of those <style=cIsDamage>FUCKING wisps.</style> Fight fire with fire boi.",
+	"EQUIPMENT_FIREBALLDASH_LORE": "Order: Europan Great Dragon Egg\r\nTracking Number: 00****************\r\nEstimated Delivery: 10\/04\/2056\r\nShipping Method:  Biological \/ Fragile\r\nShipping Address: Xenobiology Wildlife Reserve, Titan\r\nShipping Details: \r\n\r\nMake sure to keep this thing nice and hot while it incubates. I know it may seem plenty hot already, but Great Dragons are creatures of flame \u2013 they live the stuff, breath the stuff. Oh, and please send me pictures of the little guy once it hatches. Great Dragons are always so cute when they first hatch.",
+
+	"EQUIPMENT_GAINARMOR_NAME" : "green fat ass",
+	"EQUIPMENT_GAINARMOR_PICKUP" : "gain 200 kilos and block stuff with it",
+	"EQUIPMENT_GAINARMOR_DESC" : "Become so fat you get <style=cIsDamage>500 armor</style> but thankfully it's only <style=cIsUtility>temporary</style>.",
+	"EQUIPMENT_GAINARMOR_LORE": "Excerpt from the folk tale \"Clean as Jade\":\r\n\r\n\u201C... and while the peasants braced for the advancement of the Emperor\u2019s army, the stone carver finished her last strike on the giant sculpture. The clang of the flat tool against the beautiful, translucent green sheen of the solid surface echoed through the trees and around all the villagers. Their souls were cleansed and made whole by the heavenly stone, now formed into the imposing presence of an elephant.\r\n\r\nDetermination and resolve had essentially been carved into the very spirit of the ones, who, just moments ago were clutching their farming implements and make-shift weapons with trembling hands. The attack was repelled that day. The Emperor\u2019s army told stories about their metal weapons bouncing off the cloth of commoners. This inspiring encounter spread to other villages and...\u201D\r\n",
+
+	"EQUIPMENT_SAWMERANG_NAME": "SAWBLADESS",
+	"EQUIPMENT_SAWMERANG_PICKUP": "SLICE THROUGH YOUR FOES",
+	"EQUIPMENT_SAWMERANG_DESC": "Trees dont like dis.",
+	"EQUIPMENT_SAWMERANG_LORE": "I'm so happy they let me bring my trusty Frisbee on this trip! Trees need cutting? Frisbee. Baddies getting a little too close? Frisbee. Fun after-hours game of catch? Frisbee... but only if you're trained to catch it.",
+
+	"EQUIPMENT_RECYCLER_NAME": "D6",
+	"EQUIPMENT_RECYCLER_PICKUP": "reroll the shit you get to have better shit",
+	"EQUIPMENT_RECYCLER_DESC": "you didnt got fungus or speeeed ? <style=cIsUtility>Reroll !</style> It's as simple as that.",
+	"EQUIPMENT_RECYCLER_LORE": "Order: \u201CTY-6G Recycler\u201D\r\nTracking Number: 02******\r\nEstimated Delivery: 11\\06\\2056\\\r\nShipping Method: Standard\r\nShipping Address: 700 Baler Ave, Seattle, Earth\r\nShipping Details:\r\n\r\nStandard issue recycling apparatus TY-6G. Please read the manual before operating. KEEP HANDS CLEAR OF THE TOP OPENING.\r\n\r\nUse included recycler rod to pack refuse into top. Our patented smart technology will find a new, usable form for the matter you insert. \r\n\r\nThank you for recycling!\r\n",
+
+	"EQUIPMENT_LIFESTEALONHIT_NAME": "one big bastard",
+	"EQUIPMENT_LIFESTEALONHIT_PICKUP": "so u put a leech on urself and ur healing from it ????",
+	"EQUIPMENT_LIFESTEALONHIT_DESC": "<style=cIsHealing>Yes.</style>",
+	"EQUIPMENT_LIFESTEALONHIT_LORE": "Return: Super Massive Leech\r\nTracking Number: 817*****\r\nEstimated Delivery: 07/01/2056\r\nShipping Method: High Priority/Biological\r\nShipping Address: Rare/Extinct Study Satellite, Beachfront, Saturn\r\nShipping Details:\r\n\r\nWhile the medical benefits of this creature are obvious, the psychological effects are not. Upon receiving a previous shipment, Carolyn took charge of research and experimentation with the organism. \r\n\r\nEverything was by the book until, one day, she walked into the lab with the specimen clearly attached to her neck. Incredibly startled, the rest of us eventually coaxed her into placing it back into containment.\r\n\r\nWe inspected the bite area but, after running all the standard tests, we did not observe any adverse side effects.\r\n\r\nShe stated that it made her feel fantastic, but no one else in the lab felt comfortable with her behavior.\r\n",
+
+	"EQUIPMENT_TEAMWARCRY_NAME": "Civil war",
+	"EQUIPMENT_TEAMWARCRY_PICKUP": "You and ur bros go mad",
+	"EQUIPMENT_TEAMWARCRY_DESC": "U just created a <style=cIsDamage>civil war</style>... Y tho ?",
+	"EQUIPMENT_TEAMWARCRY_LORE": "<style=cMono>Audio transcription complete from \"Carrion Crows Tour 2055: Special Edition\"\r\n\r\nPrinting...</style>\r\n\r\n\"Halfway through the tour we were at this little shop down in Groveside and the guy at the desk is trying to sell us random junk.\"\r\n\r\n\"Yeah, he was totally out of the loop, had no idea who we were.\"\r\n\r\n\"Yep, anyways, as a joke, I\u2019m thinking I\u2019ll buy this ancient looking drum and use it on stage at the next show. Then we\u2019d circle back and show this guy a video of his merch being used in the biggest performance on the planet.\"\r\n\r\n\"We tried to find him again, but the shop was all shut down. Couldn\u2019t figure out what happened to him.\"\r\n\r\n\"Thing is, that drum drove our fans wild. It turned out to be our most successful tour ever.\"\r\n",
+
+	"EQUIPMENT_DEATHPROJECTILE_NAME": "BURN IT",
+	"EQUIPMENT_DEATHPROJECTILE_PICKUP": "start stackin' kablewy and knife and enemies go yeet",
+	"EQUIPMENT_DEATHPROJECTILE_DESC": "u know u hurt our commando dark souls boi every time u use this, rite ?",
+	"EQUIPMENT_DEATHPROJECTILE_LORE": "There is a note pinned to the doll:\r\n\r\nAyy, you\u2019re killin\u2019 me!\r\n\r\nYou\u2019re killin\u2019 me!\r\n\r\nYou\u2019re killin\u2019 me!\r\n\r\nYou\u2019re killin\u2019 me!\r\n\r\nYou\u2019re killin\u2019 me!\r\n\r\nYou\u2019re killin\u2019 me!\r\n\r\nYou\u2019re killin\u2019 me!\r\n\r\nYou\u2019re really killing me.\r\n",
+	
+	"EQUIPMENT_MOLOTOV_NAME": "ALTERNATE STEP 3",
+	"EQUIPMENT_MOLOTOV_PICKUP": "we're playing a war game now",
+	"EQUIPMENT_MOLOTOV_DESC": "FIRE IN THE HOLE",
+	"EQUIPMENT_MOLOTOV_LORE": "Order: Ethanol Bottle (32 oz.), 6 Pack\r\nTracking Number: 81******\r\nEstimated Delivery: 05/8/2058\r\nShipping Method: Priority\r\nShipping Address: Teromere Manor, Privet Road, Mars\nShipping Details: Let our friends inside know that we're coming over for drinks on the 16th of June. It'll be a hell of a party, they should probably hit the road before things get too out of hand.",
+
+	"EQUIPMENT_IRRADIATINGLASER_NAME": "Overloading Excavator",
+	"EQUIPMENT_IRRADIATINGLASER_PICKUP": "Fire a laser that irradiates the target, causing damage to nearby enemies.",
+	"EQUIPMENT_IRRADIATINGLASER_DESC": "Fire a laser that irradiates targets for <style=cIsUtility>8</style> seconds, causing <style=cIsDamage>3x100%</style> damage to nearby enemies every <style=cIsDamage>8</style> seconds.",
+	"EQUIPMENT_IRRADIATINGLASER_LORE": "Used to excavate the planet of precious minerals, these devices were discontinued when it was discovered that they have a 95% chance to cause radiating poisoning on a full charge.",
+
+	"EQUIPMENT_LUNARPORTALONUSE_NAME" : "Elegy of Extinction",
+	"EQUIPMENT_LUNARPORTALONUSE_PICKUP" : "Prepare a <style=cIsLunar>Lunar Portal</style> on use.",
+	"EQUIPMENT_LUNARPORTALONUSE_DESC" : "Prepare a <style=cIsLunar>Lunar Portal</style> to be created at the teleportation site, rendering the stone idol useless.",
+	"EQUIPMENT_LUNARPORTALONUSE_LORE" : "This is a placeholder. write something sad here :(",
+
+	"EQUIPMENT_VENDINGMACHINE_NAME" : "big fridge caller",
+	"EQUIPMENT_VENDINGMACHINE_PICKUP" : "you forgor your fridge mate, call it back",
+	"EQUIPMENT_VENDINGMACHINE_DESC" : "the poopy rescue ship's got plenty of these fridges somehow",
+	"EQUIPMENT_VENDINGMACHINE_LORE" : "\"I sure am thirsty,\" Chen said as he filled a Lemurian with bullets.\n\nLuckily for him, he had found an Eclipse Remote Caffeinator aboard his vessel. Reaching in his pocket, Chen pressed the button marked with the Eclipse logo, and many systems began to whirr to life.\n\nHigh up in the atmosphere, a panel on the hull of the UES Safe Travels slid open with a clunk. Ready to be ejected, an Eclipse Zero Vending Machine (c2038) twinkled valiantly. Silently, the vending machine began its journey down to the surface.\n\nBack down on the planet, Chen was starting to run low on ammunition, and the Lemurians were closing in. But, just when the Lemurians were ready to tear Chen apart, who else but the Eclipse Zero Vending Machine came crashing down, squishing the Lemurians into a fine paste. Climbing up a mound of dead Lemurians, Chen entered 5 standard credits into the machine and ordered his favorite beverage, courtesy of the Eclipse Company. \"Wow, refreshing and life-saving! Eclipse, quenching thirsts no matter where you are!\" Chen smiled, grateful for Eclipse's galaxy-wide service and quality assurance.\n\n<style=cMono>This log entry was brought to you by Eclipse: The Galactic ass clapper</style>",
+
+	"EQUIPMENT_GUMMYCLONE_NAME" : "I'M A GUMMY BEAR",
+	"EQUIPMENT_GUMMYCLONE_PICKUP" : "Oh, I'm a yummy, tummy, funny, lucky gummy bear",
+	"EQUIPMENT_GUMMYCLONE_DESC" : "I'm a jelly bear, 'cause I'm a gummy bear",
+	"EQUIPMENT_GUMMYCLONE_LORE" : "<style=cMono>//--AUTO-TRANSCRIPTION FROM UES [Redacted] --//</style>\n\n\"I'm telling you, you need to be more strict with your little slime project, dude. I caught him rummaging through my stuff earlier. You know how hard it is to get stains out of these UES uniforms? \"\n\n\"His NAME is Goobo Jr., thank you very much. And I'm sure he was just playing. He likes his uncle Rich, isn't that right, Goobo?\"\n\n\"It doesn't have vocal chords, Mike.\"\n\n\"You don't have vocal chords.\"\n\n\"Real mature. Anyway, you better stop messing around, or the Captain will send that slime ball to the front lines. Now, I got to go do my job. Y'know, what we were sent here for, not playing dollhouse with your ‘science project' over here.\"\n\n\"Yeah, yeah... Alright, he's gone. Hey Goobo, listen up. You got a good look at Rich, right? I got an idea to knock him down a few notches. First, you gotta take on his shape, and then...\"\n\n<style=cMono>[THIS LOG HAS BEEN FLAGGED FOR REVIEW AS PART OF: COURT MARTIAL OF RICHARD D. BAGGINS]</style>",
+
+	"EQUIPMENT_BOSSHUNTER_NAME" : "big blue trumpet",
+	"EQUIPMENT_BOSSHUNTER_PICKUP" : "become trumpet boy to become so obnoxious that big bois will leave and forget their thing on the floor",
+	"EQUIPMENT_BOSSHUNTER_DESC" : "but you cant play trumpet too well so it just dies :(",
+	"EQUIPMENT_BOSSHUNTER_LORE" : "\"I've always thought,\" said Rainsford, \"that the Bighorn Bison is the most dangerous of all big game.\"\n\nFor a moment the general did not reply; he was smiling his curious red-lipped smile. Then he said slowly, \"No. You are wrong, sir. The Bighorn Bison is not the most dangerous big game.\" He sipped his wine. \"Here in my preserve on this planet,\" he said in the same slow tone, \"I hunt more dangerous game.\"\n\n\"...Sir?\" General Hadbury turned to Rainsford. \"Tell me, Rainsford, what makes game... dangerous?\" Rainsford thought for a moment. \"...The, er, size, sir? Big animals are often pretty tough to take down.\" Habury nodded. \"Indeed, size can be important, but that's not it. In my eye, what makes game dangerous is... intelligence.\" Hadbury met Rainsford's gaze with a twinkle in his eye.\n\n\"The best hunt is always a match of wits. Say I were to lay some traps - how would I go about disguising them so that my prize won't spot them from a mile away? It makes things so much more fun, you see.\" Hadbury turned, walking towards the railing of the balcony overlooking his reserve. \"There's no fun to the hunt, or any game for that matter, if there is no risk involved... if there is no story to the prize. That is why, dear Rainsford, my halls are decorated with the spoils of hunts that could only be described as legendary.\" Hadbury's red-lipped smile grew into a red-lined grin. \"Now get the men ready, for we are going to hunt.\"",
+
+	"EQUIPMENT_BOSSHUNTERCONSUMED_NAME" : "Ahoy!",
+	"EQUIPMENT_BOSSHUNTERCONSUMED_PICKUP" : "Ahoy!",
+	"EQUIPMENT_BOSSHUNTERCONSUMED_DESC" : "Ahoy!",
+	"EQUIPMENT_BOSSHUNTERCONSUMED_CHAT": "Ahoy!",
+
+	"EQUIPMENT_MULTISHOPCARD_NAME": "mom's credit card",
+	"EQUIPMENT_MULTISHOPCARD_PICKUP": "hehehehe she didn't see you now you can buy infinite robux",
+	"EQUIPMENT_MULTISHOPCARD_DESC": "time to empty your bank account amirite",
+	"EQUIPMENT_MULTISHOPCARD_LORE" : "<style=cMono>\/\/--AUTO-TRANSCRIPTION FROM UES [Redacted] --\/\/<\/style>\r\n\r\n\"When you're on the planet, keep a look out for any loose UES Security Chests. Orders from the higher ups, we're to retrieve any and all parcels that were aboard the Contact Light and bring 'em home. When you locate them, open the Security Chest and retrieve the item within. When you've verified the contents of the chest, move out and continue with your other assignments. Understood?\"\r\n\r\n\"Sir yes sir! But how are we going to open them? They're locked tight, aren't they?\"\r\n\r\n\"A good question, soldier. Everyone, take one Executive Credit Card, then pass the tray to your next squad mate.\"\r\n\r\n\"E-Executive cards...? Aren't these only used by like, super rich folks? How are we ever going to pay it back?\"\r\n\r\n\"What? No. You don't pay it back.\"\r\n\r\n\"But aren't we borrowing money?\"'\r\n\r\n\"Yes.\"\r\n\r\n\"So don't we have to pay it back, eventually?\"\r\n\r\n\"Yes, with another card.\"\r\n\r\n\"Sir, I don't understand.\"\r\n\r\n\"No, you just uh... well you see, the way these cards work is that, uh... [?] well you can take out a low-interest loan to... the buying power of debt is...[??]\"\r\n\r\n<style=cMono>\/\/--TRANSCRIPTION UNINTELLIGIBLE --\/\/<\/style>",
+	}
+}

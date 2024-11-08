@@ -1,0 +1,47 @@
+{
+	"strings":
+	{
+		"RULE_HEADER_DIFFICULTY": "Dont be a drizzlet",
+		"RULE_HEADER_DIFFICULTY_WITH_COLON": "Dont be a drizzlet:",
+		"RULE_HEADER_ARTIFACTS": "Cheat codes",
+		"RULE_HEADER_ARTIFACTS_WITH_COLON": "Cheat codes:",
+		"RULE_HEADER_ARTIFACTS_SUBTITLE" : "these <style=cArtifact>thingies</style> are for cheesing the game because you smell. <style=cArtifact>hacks</style> need a <style=cArtifact>stone thing</style> ok ?\n\n<i>Don't worry tho you can still do your to-do list with those cheats on lmao.<i>",
+		"RULE_ARTIFACTS_EMPTY_TIP": "you lazy ass come on stop pretending you dont have hax.",
+		"RULE_HEADER_ARTIFACTS_EDIT" : "Turn shit on/off",
+		
+		"RULE_HEADER_ITEMS": "fungus",
+		"RULE_HEADER_EQUIPMENT": "Lightning???",
+		"RULE_HEADER_ITEMSANDEQUIPMENT_SUBTITLE" : "y00t things and stuff",
+		"RULE_HEADER_ITEMSANDEQUIPMENT_EDIT" : "choose wtf u want idk lol",
+
+		"RULE_HEADER_MISC": "What even",
+		"RULE_STARTINGMONEY_CHOICE_0_NAME": "ur poor",
+		"RULE_STARTINGMONEY_CHOICE_0_DESC": "dumbass.",
+		"RULE_STARTINGMONEY_CHOICE_15_NAME": "huh",
+		"RULE_STARTINGMONEY_CHOICE_15_DESC": "pocket change.",
+		"RULE_STARTINGMONEY_CHOICE_50_NAME": "muny",
+		"RULE_STARTINGMONEY_CHOICE_50_DESC": "fiddy bitcoins",
+
+		"RULE_STAGEORDER_CHOICE_NORMAL_NAME": "nOrmal",
+		"RULE_STAGEORDER_CHOICE_NORMAL_DESC": "the same game lol",
+
+		"RULE_STAGEORDER_CHOICE_RANDOM_NAME": "random place",
+		"RULE_STAGEORDER_CHOICE_RANDOM_DESC": "new artifact for this when",
+		
+		"RULE_KEEPMONEYBETWEENSTAGES_CHOICE_ON_DESC": "stay rich",
+		"RULE_KEEPMONEYBETWEENSTAGES_CHOICE_OFF_DESC": "monie becomz blu balls",
+
+		"RULE_ITEM_ON_DESCRIPTION" : "keep this in there.",
+		"RULE_ITEM_OFF_DESCRIPTION" : "yeet that shit from the universe.",
+		"RULE_OFF_FORMAT" : "{0} (yeeted)",
+
+		"RULE_DESCRIPTION_FORMAT" : "<mark=#{2}><b>[ {0} ]</b>\n\n</mark><style=cSub>{1}</style>",
+		"RULE_EDIT_FORMAT" : "<mark=#{2}><b>[ Edit {0} ]</b>\n\n</mark><style=cSub>{1}</style>",
+
+		"RULE_HEADER_EXPANSIONS": "extra shit you bought on top",
+		"RULE_HEADER_EXPANSIONS_EDIT": "to be or not to be DLC.",
+		"RULE_HEADER_EXPANSIONS_SUBTITLE": "all the extra good stuff ur going with",
+		"RULE_EXPANSION_ON_DESCRIPTION" : "turns on stuff you bought",
+		"RULE_EXPANSION_OFF_DESCRIPTION" : "why would you turn off something cool you bought extra????"
+	}
+}

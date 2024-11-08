@@ -1,0 +1,22 @@
+{
+    "strings":
+    {
+        "KEYWORD_POISON" : "<style=cKeywordName>toxik</style><style=cSub>Ur so salty that the bad bois start <style=cIsDamage>dyin</style>. <i>Except they cant die from it lol.</i></style>",
+        "KEYWORD_RAPID_REGEN" : "<style=cKeywordName>hacks</style><style=cSub>turn on ur hacks and <style=cIsHealing>heal for a fuckload</style>.</style>",
+        "KEYWORD_AGILE" : "<style=cKeywordName>quicc</style><style=cSub>keep runnin'.</style>",
+        "KEYWORD_PERCENT_HP" : "<style=cKeywordName>self stab</style><style=cSub> why u <style=cIsHealth>hittin urself</style> ?</style>",
+        "KEYWORD_SONIC_BOOM" : "<style=cKeywordName>Dragonborn</style><style=cSub><style=cIsUtility>FUS RO DAH</style> !</style>",
+        "KEYWORD_WEAK" : "<style=cKeywordName>karen</style><style=cSub>throw karens or whatever and give ur foes  <style=cIsDamage>crippling depression</style>.</style>",
+        "KEYWORD_HEAVY" : "<style=cKeywordName>Need for speed</style><style=cSub>SPEED = DMG LETS GOOOOOOOOOOOOOOO.</style>", 
+        "KEYWORD_FREEZING" : "<style=cKeywordName>winter is coming</style><style=cSub>You know nothing jon snow.</style>",
+        "KEYWORD_STUNNING" : "<style=cKeywordName>bonk</style><style=cSub>bonk head very hard and they go aAAA.</style>",
+        "KEYWORD_EXPOSE" : "<style=cKeywordName>exposed</style><style=cSub>upload an exposing video of them cheating so they lose self confidence and die faster</style>.",
+        "KEYWORD_SHOCKING" : "<style=cKeywordName>thunderstruck</style><style=cSub>AH-HA-AAAAH-AAAAAAAAH THUNDER",
+		"KEYWORD_SLAYER" : "<style=cKeywordName>last hit</style><style=cSub>do more <style=cIsDamage>dmg</style> when they boutta die so u can last hit.</style>",
+	    "KEYWORD_SUPERBLEED" : "<style=cKeywordName>blep</style><style=cSub>Do <style=cIsDamage>fuckloads</style> of dmg for 15s. <i>can stack dis shite.</i></style>",
+		"KEYWORD_IGNITE" : "<style=cKeywordName>burn baby burn</style><style=cSub>burn that <style=cIsDamage>mother(fucker)</style> down!",
+	    "KEYWORD_WEAKPOINT" : "<style=cKeywordName>their weak spot</style><style=cSub>basically, <style=cIsDamage>the head</style>... <style=cIsDamage>90% of the time</style>.",
+        "KEYWORD_ACTIVERELOAD" : "<style=cKeywordName>Active Reload</style><style=cSub>Press <style=cIsDamage>R</style> to reload <style=cIsDamage>:)))))))))</style>.",
+        "KEYWORD_VOIDCORRUPTION" : "<style=cKeywordName>short temper</style><style=cSub>your short tempered asshole gets angry very often</style>",
+    }
+}

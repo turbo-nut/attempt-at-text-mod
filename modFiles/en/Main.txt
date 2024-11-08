@@ -1,0 +1,221 @@
+{
+	"strings":
+	{
+		"GAME_TITLE": "Spacegame 2017",
+		"DEFAULT_FONT": "TmpFonts/Bombardier/tmpBombDropShadow",
+		
+		"LOREM" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.", 
+		"TITLE_PROFILE": "Profile: {0}",
+		"TITLE_PROFILE_DESC" : "Become someone else",
+		"TITLE_SINGLEPLAYER": "fuck yor wife",
+		"TITLE_SINGLEPLAYER_DESC" : "play alone fuckhead",
+		"TITLE_MULTIPLAYER": "die with your squad",
+		"TITLE_MULTIPLAYER_DESC" : "Delay isn't optional",
+		"TITLE_WEEKLY" : "brek crystal",
+		"TITLE_WEEKLY_DESC" : "Hell",
+		"TITLE_SETTINGS": "Change shit up",
+		"TITLE_SETTINGS_DESC" : "Put potato graphics",
+		"TITLE_LOGS": "Nerd shit",
+		"TITLE_LOGS_DESC" : "Library basically",
+		"TITLE_UNLOCKABLES": "The to-do",
+		"TITLE_MORE": "Join our discord fucker",
+		"TITLE_MORE_DESC" : "dont forget about chris",
+		"TITLE_SIGNUP": "suck dat D",
+		"TITLE_SIGNUP_DESC": "get that yearly fokin mail",
+		"TITLE_EXIT": "Go back to living your life",
+		"TITLE_EXIT_DESC" : "Get a fucking social life omg",
+		"TITLE_EXTRAGAMEMODE" : "other shitmodes",
+		"TITLE_EXTRAGAMEMODE_DESC" : "play something different but not really because its still the same game.",
+		"TITLE_ECLIPSE" : "death",
+		"TITLE_ECLIPSE_DESC" : "the more you win the more likely you'll fucking die like a noob.",
+		"TITLE_INFINITETOWER" : "PvZ endless mode",
+		"TITLE_INFINITETOWER_DESC" : "eat your waves of shit",
+
+		"TITLE_MULTIPLAYER_QUICKPLAY_START": "Have a public orgy!",
+		"TITLE_MULTIPLAYER_QUICKPLAY_STOP":  "Decide you have better things to do",
+		"TITLE_MULTIPLAYER_HOST": "Have a private orgy",
+		"TITLE_MULTIPLAYER_JOIN": "Join the fuck",
+		"TITLE_MULTIPLAYER_INVITE": "'Babe come over'",
+		"TITLE_MULTIPLAYER_RETURN": "fuck this shit",
+		"TITLE_MULTIPLAYER_FIND_GAME": "find an orgy",
+		"TITLE_MULTIPLAYER_HOST_GAME": "create ur own orgy",
+		"MORE_MUSIC" : "fortnite ost",
+		"MORE_MUSIC_DESC" : "Hey guys, Chris Pratt. I make good musive, funk you, pay me lmao.",
+		"MORE_MUSIC_BUTTON" : "Taaaaaaaaaaake ooooooonn meeeeee!",
+		"MORE_CONTACT" : "Enemy Contact",
+		"MORE_CONTACT_DESC" : "Fuck you, follow us on twitter nerd",
+
+		"MORE_LICENSE" : "stuff",
+		"MORE_LICENSE_DESC" : "i dont care nor do you",
+
+		"DESC_MULTIPLAYER_QUICKPLAY": "find randos to have an orgy with.",
+		"DESC_MULTIPLAYER_HOST": "host an orgy",
+		"DESC_MULTIPLAYER_JOIN": "why would you use this",
+		"DESC_MULTIPLAYER_INVITE": "slaughter with your steam friendos",
+
+		"TITLE_WEEKLY_START" : "Start hell",
+		"WEEKLY_RUN_NO_ENTRY" : "Play if you want see",
+		"WEEKLY_RUN_NEXT_CYCLE_COUNTDOWN_FORMAT" : "tick tock tick tock - big thing in {0:00}:{1:00}:{2:00}",
+		"WEEKLY_RUN_DESCRIPTION" :	"'basically you play on the same thing as everyone else cool rite?.\n\nThe <style=cWorldEvent>top 10%</style> of players basically are no-lifers.",
+		"WEEKLY_RUN_RANK" : "how much they succ",
+		"WEEKLY_RUN_NAME" : "who dis",
+		"WEEKLY_RUN_TIME" : "stayed in hell for:",
+
+		"CHARSELECT_RETURN": "nope",
+		"DIFFICULTY_EASY_NAME": "haha ur bad",
+		"DIFFICULTY_EASY_DESCRIPTION": "No judgement. Fucking drizzlet",
+
+		"DIFFICULTY_NORMAL_NAME": "Gamer",
+		"DIFFICULTY_NORMAL_DESCRIPTION": "You actually want to play the game? Play on gamer my gamer.",
+
+		"DIFFICULTY_HARD_NAME": "Rainin' monsters",
+		"DIFFICULTY_HARD_DESCRIPTION": "Bold of you to select this difficulty.",
+		
+		"USER_PROFILE_DELETE_HEADER": "Obliterate yourself from existence ?",
+		"USER_PROFILE_DELETE_DESCRIPTION": "Ya sure you'll delete \"<color="orange">{0}</color>\" ? everything will be <style=cDeath>thanos snapped</style>.",
+		"USER_PROFILE_DELETE_YES": "I want to die.",
+		"USER_PROFILE_DELETE_NO": "That's gonna be a no from me dawg",
+		
+		"SUBMENU_PROFILE" : "Person",
+		"SUBMENU_SELECT" : "choose",
+		"SUBMENU_BACK": "gtfo",
+		"SUBMENU_ACCEPT" : "yay",
+		"SUBMENU_SCROLL" : "(The elder) Scroll(s)",
+		"SUBMENU_DELETE" : "DELET",
+		"SUBMENU_QUIT" : "fuck this",
+		"SUBMENU_SUBMENU_SELECT" : "Change shit",
+
+		"ACHIEVEMENTS_SCREEN_TITLE": "Shit to do",
+		"ACHIEVEMENT_CARD_REWARD_FORMAT": "ting u get: {0}",
+		"ACHIEVEMENT_CARD_PREREQ_FORMAT" : "Do {0}",
+		"CHAT_KEYBIND_TIP": "Press Enter to shit talk people",
+
+		"GAME_RESULT_LOST": "oof your bones broke.",
+		"GAME_RESULT_WON": "Congartulation, yuo won!!",
+		"GAME_RESULT_UNKNOWN": "Now you can go to bed.",
+		
+		"UNIDENTIFIED" : "???",
+		"UNIDENTIFIED_DESCRIPTION" : "You suck too much to do this rn.",
+		"UNIDENTIFIED_KILLER_NAME" : "The entire fucking planet",
+		"DESCRIPTION_PREFIX_FORMAT" : "Description:\n{0}",
+		"NOTES_PREFIX_FORMAT" : "Notes:\n<style=cSub><size=80%>{0}</size></style>",
+
+		"GENERIC_PREFIX_FOUND" : "Got: <style=cEvent>{0}</style>",
+		"GENERIC_PREFIX_WINPERCENTAGE" : "yay Percentage: <style=cEvent>{0}%</style>",
+		"BODY_HEALTH_FORMAT" : "Max Girth: {0}",
+		"BODY_DAMAGE_FORMAT" : "Dmg: {0}",
+		"BODY_MOVESPEED_FORMAT" : "vroom: {0} m/s",
+		"BODY_ARMOR_FORMAT" : "Tanking: {0}",
+		"BODY_REGEN_FORMAT" : "(Sus)tain: {0} hp/s",
+
+		"ITEM_PREFIX_STACKCOUNT" : "most shit got: <style=cEvent>x{0}</style>",
+		"EQUIPMENT_PREFIX_COOLDOWN" : "time it fucking takes: <style=cIsUtility>{0}s</style>",
+		"EQUIPMENT_PREFIX_USECOUNT" : "beans got: <style=cEvent>{0}</style>",
+		"EQUIPMENT_PREFIX_TOTALTIMEHELD" : "time for longest nut: <style=cEvent>{0}</style>",
+		"MONSTER_PREFIX_KILLED" : "joe mama: <style=cEvent>{0}</style>",
+		"MONSTER_PREFIX_ELITESKILLED" : "Gamers ended: <style=cEvent>{0}</style>",
+		"MONSTER_PREFIX_DEATH" : "murderated you this many time: <style=cEvent>{0}</style>",
+		
+		"STAGE_PREFIX_TOTALTIMESVISITED" : "amount of ass eaten: <style=cEvent>{0}</style>",
+		"STAGE_PREFIX_TOTALTIMESCLEARED" : "stage clears: <style=cEvent>{0}</style>",
+		"STAGE_PREFIX_STAGECOMPLETIONPERCENTAGE" : "complete percentage: <style=cEvent>{0}%</style>",
+
+		"SURVIVOR_PREFIX_LONGESTRUN" : "hours wasted: <style=cEvent>{0}</style>",
+		"SURVIVOR_PREFIX_TIMESPICKED" : "game play: <style=cEvent>{0}</style>",
+		"SURVIVOR_PREFIX_PICKPERCENTAGE" : "percentage of how much shite ya chose this b: <style=cEvent>{0:#00.00}%</style>",
+
+		"BODY_STATS_FORMAT" : "{0} <style=cStack>(+{1} per level)</style>",
+		
+		"DIALOG_OPTION_YES" : "Yaa",
+		"DIALOG_OPTION_NO" : "Nah",
+		"OK" : "Oke",
+		"CANCEL" : "Cancal",
+		
+		"PLAYER_NAME_TOOLTIP_FORMAT" : "rando: {0}",
+		"PLAYER_NAME_DISCONNECTED" : "Not in game pesron",
+		"PLAYER_NAME_UNAVAILABLE" : "???",
+		
+		"DISCONNECTED" : "ur no longer in game",
+		"KICK_REASON_UNSPECIFIED" : "fuck idk.",
+		"KICK_REASON_SERVERSHUTDOWN" : "host needed sleep or ragequitted lmao.",
+		"KICK_REASON_TIMEOUT" : "Timed out. I feel for you.",
+		"KICK_REASON_KICK" : "oof u got kick.",
+		"KICK_REASON_BAN" : "get fucked",
+		"KICK_REASON_BADPASSWORD" : "wrong passcode.",
+		"KICK_REASON_BADVERSION" : "you're probably using mods.",
+		"KICK_REASON_SERVERFULL" : "People are in here srry.",
+		"KICK_REASON_ACCOUNT_ALREADY_ON_SERVER" : "ur account is already in there buckaroo",
+		"KICK_REASON_MALFORMED_AUTH_DATA" : "malformed request. request again idk",
+		"KICK_REASON_STEAMWORKS_AUTH_FAILURE" : "steam is still as gay: {0}",
+		"KICK_REASON_MOD_MISMATCH" : "U dont have the same mods as the host in there dood. == The not okay Mods ==\n{0}\n\n== Get these ==\n{1}\n",
+
+		"LEADERBOARDS" : "top 10 no-lifers",
+		"LEADERBOARDS_GLOBAL" : "Euro-fags mostly",
+		"LEADERBOARDS_FRIENDS" : "People you know",
+
+		"PROFILE_TITLE" : "choose something",
+		"PROFILE_CREATE_NEW" : "Rebirth",
+		"PROFILE_ENTER" : "go in",
+		"PROFILE_SELECT" : "chooz",
+		"PROFILE_DEL" : "Del",
+		"PROFILE_DELETE" : "DELET",
+		"PROFILE_CREATE_PROFILE" : "Rebirth",
+		"PROFILE_ADD" : "another one",
+
+		"PAUSE_RESUME" : "back in action",
+		"PAUSE_SETTINGS" : "Change shit up mid-game",
+		"PAUSE_QUIT_TO_MENU" : "Nope the fuck out",
+		"PAUSE_QUIT_TO_DESKTOP" : "Ragequit",
+		
+		"SPECTATING_NAME_FORMAT" : "Stalking: {0}",
+		
+		"QUIT_RUN_CONFIRM_DIALOG_TITLE": "yeet away ?",
+		"QUIT_RUN_CONFIRM_DIALOG_BODY_SINGLEPLAYER": "You gonna ragequit dis run ?",
+		"QUIT_RUN_CONFIRM_DIALOG_BODY_CLIENT": "Really ? You gonna leave yer buds ?",
+		"QUIT_RUN_CONFIRM_DIALOG_BODY_HOST": "Bro wtf, if you leave, <style=cDeath>all your pals are gonna be kicked</style>. DONT RAGEQUIT OKAY ?",
+		
+		"CONTROLLER_DISCONNECTED_DIALOG_TITLE" : "ur poopy thing dieded",
+		"CONTROLLER_DISCONNECTED_DIALOG_BODY" : "ye it definitely diedededed.",
+
+		"STARTUP_FAILURE_DIALOG_TITLE": "couldnt startup cuz gei",
+
+		"MSVCR_2015_BAD_INSTALL_DIALOG_BODY": "The game failed to load a necessary library due to an issue with your installation of Microsoft Visual C++ 2015 Redistributable (x64). The button below will open your browser to the Microsoft download page for this installer. Please note that if the installation process fails because the redistributable is already installed, you <i>must uninstall it</i> and try again. This will also occur if you have newer versions of the redistributable, like 2017 or 2019, which will prevent the 2015 version from being installed after them.\n\nThis program will close after this message is dismissed.",
+		"MSVCR_2015_BAD_INSTALL_DIALOG_DOWNLOAD_BUTTON": "Get the Redistributable",
+
+		"ARENA_HUD_MONSTERS_LABEL": "Fucks in here",
+		"ARENA_HUD_MONSTER_ITEMS_LABEL": "Their shit",
+		
+		"IMMUNE_TO_DAMAGE_HITMARKER": "NOPE LMAO",
+		"BLOCKED_DAMAGE_HITMARKER": "SQUEAKY, BITCH",
+		"EXTRALIFE_REVIVED_EFFECT": "LOL IM BACK",
+		"EXTRALIFEVOID_REVIVED_EFFECT": "IM BACK BOIS BUT I FEEL WEIRD",
+
+		"SCOREBOARD_HEADER_PLAYERS": "Peoplez",
+		"SCOREBOARD_HEADER_ITEMS": "stuff",
+		"SCOREBOARD_HEADER_EQUIPMENT": "bean",
+		
+		"HUD_LEVEL_PREFIX": "Lv:",
+
+		"LANGUAGE_PLATFORM": "Default ({0})",
+
+		"CUTSCENE_SKIP": "Idc aAAA",
+
+		"PERCENT_FORMAT": "<nobr>{0:0.0%}</nobr>",
+		"PERCENT_FORMAT_PARENTHESES": "<nobr>({0:0.0%})</nobr>"
+
+		"EXPANSION_PURCHASED_REQUIRED_FORMAT" : "ya need to buy \"{0}\".",
+		"EXPANSION_ENABLED_REQUIRED_FORMAT" : "turn on dis tingy majigy \"{0}\" ",
+		
+		"FIRST_TIME_CROSSPLAY_POPUP_HEADER" : "more people to play with!",
+		"FIRST_TIME_CROSSPLAY_POPUP_DESCRIPTION" : "Are you ready for this shit? now we've got some impressive stuff in here... behold! the most ambitious crossover in history! better than endgame!",
+		"FIRST_TIME_CROSSPLAY_POPUP_DISABLE_CROSSPLAY" : "turn on crossover",
+		"FIRST_TIME_CROSSPLAY_POPUP_INFO" : "read more on dis shit"
+		
+		"SIGNUP_TITLE" : "becom scubsrib",
+		"SIGNUP_DESC" : "get shit 'spammed' in ur mailbox",
+		"SIGNUP_SUBMIT" : "sumbit",
+		"SIGNUP_WAIT" : "is goin..",
+		"SIGNUP_SUCCESS" : "Da, comrad, spasibo",
+		"SIGNUP_FAILURE" : "enter a real email fuckface",
+	}
+}

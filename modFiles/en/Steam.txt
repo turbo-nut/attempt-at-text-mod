@@ -1,0 +1,27 @@
+{
+  "strings":
+  {
+    "STEAM_PROMOTE_OWNER_TOOLTIP_BODY": "make da leader",
+    "STEAM_COPY_LOBBY" : "get dat shit copied",
+    "STEAM_COPY_LOBBY_TO_CLIPBOARD_TOOLTIP_BODY": "who even does lobby ids or whatever.",
+    "STEAM_COPY_LOBBY_TO_CLIPBOARD_MESSAGE": "nerd",
+    "STEAM_JOIN_LOBBY_ON_CLIPBOARD": "join dis lobby",
+    "STEAM_JOIN_LOBBY_CLIPBOARD_SUCCESS": "joined ID.",
+    "STEAM_JOIN_LOBBY_CLIPBOARD_FAIL": "haha fuck you ur id is shit.",
+    "STEAM_LOBBY_PUBLIC": "Everyone's Here!",
+    "STEAM_LOBBY_PRIVATE": "Just you and yo buds",
+    "STEAM_LOBBY_FRIENDSONLY": "Only yo buds",
+    "STEAM_LOBBY_INVISIBLE": "no one can see lobby",
+    "STEAM_LOBBY_STATUS_NOT_IN_LOBBY": "yuo not in lobby",
+    "STEAM_LOBBY_STATUS_LAUNCHING_QUICKPLAY": "going into randocommando hell...",
+    "STEAM_LOBBY_STATUS_QUICKPLAY_SEARCHING_FOR_EXISTING_LOBBY": "on the prowl for rANDOS...",
+    "STEAM_LOBBY_STATUS_QUICKPLAY_WAITING_BELOW_MINIMUM_PLAYERS": "{0}/{1} in place. more peeps required...",
+    "STEAM_LOBBY_STATUS_QUICKPLAY_WAITING_ABOVE_MINIMUM_PLAYERS": "{0}/{1}  fricks in he. Game start: {2}",
+    "STEAM_LOBBY_STATUS_OUT_OF_QUICKPLAY": "Not qued for hell.",
+    "STEAM_LOBBY_STATUS_CONNECTING_TO_HOST": "Host being connect to...",
+    "STEAM_LOBBY_STATUS_STARTING_SERVER": "Kaboogaloo...",
+	"STEAM_LOBBY_STATUS_GAME_STARTING": "Gaboogapoo...",
+	"STEAM_LOBBY_VERSION_MISMATCH_DIALOG_TITLE": "They're probably hacking so no join",
+	"STEAM_LOBBY_VERSION_MISMATCH_DIALOG_DESCRIPTION": "Unable to become one. The host is a haxor or the game hasn't been updated.\nYuos={0}\nTheys={1}",
+  }
+}
