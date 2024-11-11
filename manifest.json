@@ -1,9 +1,9 @@
 {
-    "name": "Attempt_At_Text_Mod",
+    "name": "thebit",
     "version_number": "1.0.0",
-    "website_url": "https://github.com/turbo-nut/attempt-at-text-mod",
+    "website_url": "",
     "description": "committing to a bit",
-    "dependencies": []
-
-
+    "dependencies": [
+		"RiskofThunder-R2API_Language-1.0.1"
+    ]
 }
